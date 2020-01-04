@@ -1,3 +1,3 @@
 # mytest2
 
-Attempting to create a git file
+Second attempt at clone and editing git repository
